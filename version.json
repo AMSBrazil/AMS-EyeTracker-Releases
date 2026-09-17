@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.21",
+  "latest_version": "1.0.23",
   "minimum_version": "1.0.0",
-  "download": "https://github.com/AMSBrazil/AMS-EyeTracker-Releases/releases/download/v1.0.2-beta/AMS_Eye_Tracker_Patch_1021b.exe",
+  "download": "LINK_DO_NOVO_PATCH",
   "mandatory": false,
-  "message": "v1.0.21: Patch para corrigir erros na janela do Calibrador"
+  "message": "v1.0.23: ..."
 }
