@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.23",
+  "latest_version": "1.0.24",
   "minimum_version": "1.0.0",
-  "download": "https://github.com/AMSBrazil/AMS-EyeTracker-Releases/releases/download/v1.0.23-beta/AMS_Eye_Tracker_Patch_1023.exe",
+  "download": "https://github.com/AMSBrazil/AMS-EyeTracker-Releases/releases/download/v1.0.23-beta/AMS_Eye_Tracker_Patch_1024.exe",
   "mandatory": false,
   "message": "v1.0.23: Novo sistema de inicialização e melhorias de estabilidade"
 }
