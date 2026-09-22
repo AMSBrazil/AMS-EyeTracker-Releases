@@ -1,7 +1,7 @@
 {
   "latest_version": "1.0.24",
   "minimum_version": "1.0.0",
-  "download": "https://github.com/AMSBrazil/AMS-EyeTracker-Releases/releases/download/v1.0.23-beta/AMS_Eye_Tracker_Patch_1024.exe",
+  "download": "https://github.com/AMSBrazil/AMS-EyeTracker-Releases/releases/download/v1.0.23-beta/AMS_Eye_Tracker_Patch_103.exe",
   "mandatory": false,
   "message": "v1.0.3: World Camera Gaze agora em 120 Hz, novo modo de visualização em tempo real e melhorias de desempenho no processamento do gaze, dados e Pupil Setup."
 }
